@@ -1,5 +1,7 @@
 # WinForms CRUD con MySQL
 
+![image](https://github.com/user-attachments/assets/e9905b02-16b7-434c-9271-309b4ce83bcb)
+
 ![image](https://github.com/user-attachments/assets/855e0b43-ba16-4df3-b52e-74668aba7a25)
 
 - **Proyecto**: WinForms CRUD con MySQL  

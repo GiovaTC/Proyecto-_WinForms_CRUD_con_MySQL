@@ -1,13 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35821.62 d17.14
+VisualStudioVersion = 17.14.35821.62
 MinimumVisualStudioVersion = 10.0.40219.1
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCRUDconMySQL", "WinFormsCRUDconMySQL\WinFormsCRUDconMySQL.csproj", "{2B4282F0-A07C-48ED-A7D3-D81098908F58}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCRUDconMySQL", "WinFormsCRUDconMySQL\WinFormsCRUDconMySQL.csproj", "{8E29882A-9E6E-4AE7-A1F7-F36A57A9DE8E}"
->>>>>>> 3108f7a (Agregar archivos de proyecto.)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,26 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
 		{2B4282F0-A07C-48ED-A7D3-D81098908F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B4282F0-A07C-48ED-A7D3-D81098908F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B4282F0-A07C-48ED-A7D3-D81098908F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B4282F0-A07C-48ED-A7D3-D81098908F58}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{8E29882A-9E6E-4AE7-A1F7-F36A57A9DE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E29882A-9E6E-4AE7-A1F7-F36A57A9DE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E29882A-9E6E-4AE7-A1F7-F36A57A9DE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E29882A-9E6E-4AE7-A1F7-F36A57A9DE8E}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 3108f7a (Agregar archivos de proyecto.)
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-<<<<<<< HEAD
-		SolutionGuid = {1B685DF3-911C-4E58-99B1-8BB78B546432}
-=======
 		SolutionGuid = {801EFEA8-5600-47A7-81DB-DC33BD9E814A}
->>>>>>> 3108f7a (Agregar archivos de proyecto.)
 	EndGlobalSection
 EndGlobal

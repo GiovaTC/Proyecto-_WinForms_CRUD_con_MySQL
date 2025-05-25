@@ -1,5 +1,7 @@
 # WinForms CRUD con MySQL
 
+![image](https://github.com/user-attachments/assets/855e0b43-ba16-4df3-b52e-74668aba7a25)
+
 - **Proyecto**: WinForms CRUD con MySQL  
 - **IDE**: Visual Studio 2022  
 - **Paquetes NuGet necesarios**:

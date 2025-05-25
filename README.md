@@ -150,11 +150,25 @@ namespace WinFormsCrudMySql
 ## Script SQL para la base de datos
 
 ```sql
-CREATE TABLE registros (
-  Id INT AUTO_INCREMENT PRIMARY KEY,
-  Name VARCHAR(100) NOT NULL,
-  Value VARCHAR(100) NOT NULL
-);
+
+   CREATE DATABASE IF NOT EXISTS tu_base;
+   USE tu_base;
+
+   CREATE TABLE IF NOT EXISTS registros (
+     Id INT AUTO_INCREMENT PRIMARY KEY,
+     Name VARCHAR(100) NOT NULL,
+     Value VARCHAR(100) NOT NULL
+   );
+
+   INSERT INTO registros (Name, Value) VALUES ('Producto A', '100');
+   INSERT INTO registros (Name, Value) VALUES ('Producto B', '250');
+   INSERT INTO registros (Name, Value) VALUES ('Producto C', '75');
+   INSERT INTO registros (Name, Value) VALUES ('Producto D', '300');
+   INSERT INTO registros (Name, Value) VALUES ('Servicio X', '1200');
+   INSERT INTO registros (Name, Value) VALUES ('Servicio Y', '800');
+   INSERT INTO registros (Name, Value) VALUES ('Accesorio Z', '45');
+   INSERT INTO registros (Name, Value) VALUES ('Insumo K', '60');
+
 ```
 
 ---

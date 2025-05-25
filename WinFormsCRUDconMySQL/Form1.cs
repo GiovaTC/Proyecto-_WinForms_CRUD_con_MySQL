@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+using System;
+>>>>>>> 3108f7a (Agregar archivos de proyecto.)
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,4 +37,8 @@ namespace WinFormsCRUDconMySQL
 
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3108f7a (Agregar archivos de proyecto.)

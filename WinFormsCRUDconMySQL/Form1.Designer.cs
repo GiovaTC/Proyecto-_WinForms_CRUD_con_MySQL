@@ -189,5 +189,9 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label2;
     }
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 3108f7a (Agregar archivos de proyecto.)
